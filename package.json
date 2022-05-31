@@ -15,6 +15,16 @@
   },
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^3.0.4",
-    "dotenv": "^16.0.1"
+    "@nomiclabs/hardhat-solhint": "^2.0.1",
+    "dotenv": "^16.0.1",
+    "eslint": "^8.16.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-mocha-no-only": "^1.1.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^2.6.2",
+    "prettier-plugin-solidity": "^1.0.0-beta.19",
+    "solhint": "^3.3.7"
   }
 }
