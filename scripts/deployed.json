@@ -1,0 +1,9 @@
+{
+  "FungibleToken": {
+    "rinkeby": {
+      "address": "0xD8e736a31f49a9cEb79Ced33b4AD3d2BA34bf292",
+      "constructorArguments": ["0x9086701Ecc7eFe724fC906DDF5Bf7D481FA3B055"],
+      "isProxy": false
+    }
+  }
+}
